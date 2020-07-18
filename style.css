@@ -1,0 +1,13 @@
+h1 {
+	text-align: center;
+	width: 120px;
+	margin-left: 50%;
+}
+
+p{
+	font-size: 25px;
+}
+
+body {
+	background-image: url(image_ddos.jpg)
+}
